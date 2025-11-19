@@ -13,7 +13,6 @@ Exibe uma lista das senhas geradas
 
 Arquitetura pronta pra escalar e virar um microprojeto real
 
-.env para variáveis sensíveis (não vai pro GitHub)
 
 🗃️ O que o app faz?
 
